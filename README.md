@@ -2,7 +2,7 @@
 - 👀 I’m interested in cryptocurrencies
 - 🌱 I’m currently learning web3
 - 💞️ I’m looking to collaborate on my project
-- 📫 How to reach me @Gigastu5
+- 📫 How to reach me on twitter just follow me @Gigastu5
 
 <!---
 gigsr123/gigsr123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
