@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gigsr123
+- 👋 Hi, I’m Ryan Gigs
 - 👀 I’m interested in cryptocurrencies
 - 🌱 I’m currently learning web3
 - 💞️ I’m looking to collaborate on my project
